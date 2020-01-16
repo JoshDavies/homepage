@@ -1,6 +1,12 @@
 https://joshdavies.github.io/homepage/
 
-Testing windows setup
+```bash
+> npm install
+# launch development build at http://localhost:3000/
+> npm start
+# to terminate
+> ctrl + c 
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
