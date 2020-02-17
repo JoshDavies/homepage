@@ -6,17 +6,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.notion.so/joshdavies/Josh-Davies-ce496fb56a634e7ca8b4e9fdf198ee0a"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Personal Study Notes
         </a>
       </header>
     </div>
