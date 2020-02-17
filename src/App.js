@@ -14,6 +14,22 @@ function App() {
         >
           Personal Study Notes
         </a>
+        <a
+          className="App-link"
+          href="https://joshdavies.github.io/jdaviescreative/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          J Davies Creative
+        </a>
+        <a
+          className="App-link"
+          href="https://joshdavies.github.io/bowling-challenge/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Bowling Score Card
+        </a>
       </header>
     </div>
   );
