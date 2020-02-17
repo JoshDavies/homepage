@@ -28,7 +28,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bowling Score Card
+          Bowling Score-Card
         </a>
       </header>
     </div>
